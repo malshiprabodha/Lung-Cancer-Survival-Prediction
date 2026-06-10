@@ -1,4 +1,4 @@
-# 🫁 Lung Cancer Survival Prediction System
+# Lung Cancer Survival Prediction System
 
 <img src="Image.png" width="800">
 
@@ -127,5 +127,5 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 ```text
-https://your-streamlit-app-url.streamlit.app/
+https://malshiprabodha-lung-cancer-survival-prediction-app-9mihwm.streamlit.app/
 ```
